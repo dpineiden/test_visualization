@@ -1,0 +1,5 @@
+name = Test Visualization
+description = Prueba funciones de visualization
+core = 7.x
+package = "Data Convert"
+version = "7.x-1.0" 
